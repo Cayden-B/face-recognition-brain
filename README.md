@@ -1,4 +1,6 @@
+Basic react app built with help from ZTM course. 
 
+Facial recognition brain which locates faces on a picture using the url. This is acheived by using clarifai and using some node packages for the background.
 
 
 # Getting Started with Create React App
