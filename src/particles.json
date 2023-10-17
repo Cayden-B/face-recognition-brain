@@ -3,7 +3,7 @@
       "events": {
         "onClick": {
           "enable": true,
-          "mode": "push"
+          "mode": "repulse"
         },
         "onHover": {
           "enable": true,
@@ -16,7 +16,7 @@
           "quantity": 10
         },
         "repulse": {
-          "distance": 100,
+          "distance": 300,
           "duration": 0.4
         }
       }
@@ -42,14 +42,14 @@
           "default": "bounce"
         },
         "random": false,
-        "speed": 5,
+        "speed": 2,
         "straight": false
       },
       "number": {
         "density": {
           "enable": true
         },
-        "value": 200
+        "value": 350
       },
       "opacity": {
         "value": 1.0
